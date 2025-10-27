@@ -1,0 +1,1 @@
+.gitignora exluye archivos
