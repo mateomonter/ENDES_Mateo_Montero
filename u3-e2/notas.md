@@ -1,0 +1,2 @@
+comados de git
+.gitignore
